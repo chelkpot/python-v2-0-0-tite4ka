@@ -1,6 +1,12 @@
 # tasks/task3.py
 
 def solve():
+    a, b = map(int, input().split())
+    g = b - 1
+    h = a - 1
+    print(g, h)
+
+
 # Ниже пишите решение задачи
     
 

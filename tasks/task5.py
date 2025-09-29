@@ -1,6 +1,10 @@
 # tasks/task5.py
 
 def solve():
+    
+    spell = input()
+    print(spell, "- Сказала Гермиона!", sep="")
+
 # Ниже пишите решение задачи
 
 
